@@ -16,6 +16,7 @@ class ViewController: UIViewController {
         println("test3")
         println("test2")
         println("test1")
+        println("test5")
     }
 
     override func didReceiveMemoryWarning() {
